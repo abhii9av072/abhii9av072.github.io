@@ -109,6 +109,6 @@ See `LICENSE` for more information.
 Made with 🧠 by **STARKS** (Superior Tech And Robotics Knowledge Society) ( Abhinav & Abhinav Shukla ).
 
 ```
-Made with 🧠 by **STARKS** (Superior Tech And Robotics Knowledge Society) 
 By Abhinav & Abhinav Shukla .
+Logging Out...
 ```
