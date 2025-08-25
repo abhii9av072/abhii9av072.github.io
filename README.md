@@ -99,14 +99,13 @@ npm run dev
 
 ## 🤝 Contributing
 
-Pull requests are welcome!
-For major changes, please open an issue first to discuss what you’d like to change.
+Pull requests are not welcome!
+And Kind of use without Consent of the our Authority in written is Strictly Prohibited, If done, then must ready for the great consequences.
 
 ---
 
 ## 📜 License
 
-Distributed under the **MIT License**.
 See `LICENSE` for more information.
 
 ---
@@ -116,4 +115,6 @@ See `LICENSE` for more information.
 Made with 🧠 by **STARKS** (Superior Tech And Robotics Knowledge Society) ( Abhinav & Abhinav Shukla ).
 
 ```
-
+Made with 🧠 by **STARKS** (Superior Tech And Robotics Knowledge Society) 
+By Abhinav & Abhinav Shukla .
+```
