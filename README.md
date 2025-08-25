@@ -113,13 +113,7 @@ See `LICENSE` for more information.
 
 ## ✨ Credits
 
-Made with ❤️ by **STARKS** (Superior Tech And Robotics Knowledge Society).
+Made with 🧠 by **STARKS** (Superior Tech And Robotics Knowledge Society) ( Abhinav & Abhinav Shukla ).
 
 ```
 
----
-
-👉 I can also add **badges** (like GitHub stars, forks, contributors, deploy status) at the top to make it pop even more.  
-
-Do you want me to make it **minimal clean** (Apple-like) or **futuristic cyber theme** (neon vibes for STARKS)?
-```
